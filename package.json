@@ -1,0 +1,16 @@
+{
+  "name": "cvs2json",
+  "version": "1.0.0",
+  "description": "Converts cvs files to json",
+  "main": "cvs2Json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cvs",
+    "json",
+    "conversion"
+  ],
+  "author": "Rafa Gomez rafagomez.neocities.org",
+  "license": "ISC"
+}
